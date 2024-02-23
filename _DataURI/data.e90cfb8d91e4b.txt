@@ -1,0 +1,1 @@
+chrome-extension://deojfdehldjjfmcjcfaojgaibalafifc/minifiedContentScript.js
